@@ -30,7 +30,7 @@ Frutrações nas entregas sempre tendem a ser mais negativos.
 ![Image](https://github.com/user-attachments/assets/225054de-af50-4348-a63f-35703d99deb6)
 
 Atendimento e suporte ao cliente sempre tendem a ser mais neutro, por conter uma condição "mas" ou "porém".
-
+![Image](https://github.com/user-attachments/assets/01e6eeca-499c-44f0-b8fe-4a8f091619eb)
 
 ## ✨ Conclusão: Azure AI no contexto de Análise de Sentimentos
 
