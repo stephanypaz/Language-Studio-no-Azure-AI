@@ -24,7 +24,7 @@ Outros pontos importantes sobre os feedbacks seriam: Usabilidade, Preços oferta
 Após analisar as sentenças, alguns insights importantes foram analisados:
 
 Os sentimentos sobre a usabilidade do aplicativo sempre tendem a ser mais positivos.
-IMAGEM 1
+![Image](https://github.com/user-attachments/assets/73bdb033-a9f1-4cb0-9408-b7839ddfaa70)
 
 Frutrações nas entregas sempre tendem a ser mais negativos.
 IMAGEM 2
