@@ -27,10 +27,10 @@ Os sentimentos sobre a usabilidade do aplicativo sempre tendem a ser mais positi
 ![Image](https://github.com/user-attachments/assets/73bdb033-a9f1-4cb0-9408-b7839ddfaa70)
 
 Frutrações nas entregas sempre tendem a ser mais negativos.
-IMAGEM 2
+![Image](https://github.com/user-attachments/assets/225054de-af50-4348-a63f-35703d99deb6)
 
 Atendimento e suporte ao cliente sempre tendem a ser mais neutro, por conter uma condição "mas" ou "porém".
-IMAGEM 3
+
 
 ## ✨ Conclusão: Azure AI no contexto de Análise de Sentimentos
 
